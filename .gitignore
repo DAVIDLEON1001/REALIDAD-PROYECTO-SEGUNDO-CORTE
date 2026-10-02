@@ -1,0 +1,13 @@
+# Unity Generated
+PROYECTO UNITY/My project/Library/
+PROYECTO UNITY/My project/Temp/
+PROYECTO UNITY/My project/Logs/
+PROYECTO UNITY/My project/obj/
+PROYECTO UNITY/My project/Build/
+PROYECTO UNITY/My project/Builds/
+PROYECTO UNITY/My project/*.sln
+PROYECTO UNITY/My project/*.csproj
+
+# OS
+.DS_Store
+Thumbs.db
